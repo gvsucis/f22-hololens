@@ -1,0 +1,19 @@
+{
+  "name": "com.beans.deform",
+  "author": "Keenan Woodall",
+  "displayName": "Deform",
+  "version": "1.2.1",
+  "unity": "2018.3",
+  "description": "A framework for deforming meshes in the editor and at runtime.",
+  "category": "Unity",
+  "keywords": [
+    "burst",
+    "mathematics",
+    "mesh",
+    "modifiers",
+    "deformers"
+  ],
+  "dependencies": {
+    "com.unity.burst": "1.4.8"
+  }
+}
