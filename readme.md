@@ -6,7 +6,7 @@ Hololense based educational app that will show the full body with different over
 ## Team Members and Roles
 
 * [Chase Mulder](https://github.com/ChaseMulder/)
-* Member 2 (Role 3, Role 4)
+* [Lucas Seeterlin](https://github.com/seeterll/)
 * Member 3 (Role 5, Role 6)
 
 ## Prerequisites
