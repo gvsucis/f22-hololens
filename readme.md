@@ -7,7 +7,8 @@ Hololense based educational app that will show the full body with different over
 
 * [Chase Mulder](https://github.com/ChaseMulder/)
 * [Lucas Seeterlin](https://github.com/seeterll/)
-* Member 3 (Role 5, Role 6)
+* [Liam Mazure](https://github.com/Liam-Mazure/)
+* [Mohammad Saleh](https://github.com/salehmohammad1/)
 
 ## Prerequisites
 
