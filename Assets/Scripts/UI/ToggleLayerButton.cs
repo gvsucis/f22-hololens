@@ -3,9 +3,15 @@ using Microsoft.MixedReality.Toolkit.UI;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class ToggleLayerButton : MonoBehaviour
 {
+	public Text description;
+
+	void Start() {
+		description = GameObject.Find("Description").GetComponent<Text>();
+	}
 
 	#region Private Fields
 	//Serialized
@@ -53,6 +59,9 @@ public class ToggleLayerButton : MonoBehaviour
 	{
 		_isToggled = !_isToggled;
 		_OnSetLayerStateEvent.RaiseEvent(_layerToToggle, _isToggled);
+		if (_layerToToggle.name == "Skin") {
+			description.text = "hi";
+		}
 	}
 
 	/// <summary>
