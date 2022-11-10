@@ -9,7 +9,7 @@ public class FlashcardDescription : MonoBehaviour
     private string eyes = "A specialized light-sensitive sensory structure of animals that in nearly all vertebrates, most arthropods, and some mollusks is the image-forming organ of sight";
     private string skin = "The integument of an animal (such as a fur-bearing mammal or a bird) separated from the body usually with its hair or feathers";
     private string respiratory = "A system of organs functioning in respiration and in humans consisting especially of the nose, nasal passages, pharynx, larynx, trachea, bronchi, and lungs";
-    private string circulatory = "";
+    private string circulatory = "the system that circulates blood and lymph through the body, consisting of the heart, blood vessels, blood, lymph, and the lymphatic vessels and glands";
     private string muscle = "A body tissue consisting of long cells that contract when stimulated and produce motion";
     private string skeleton = "The bony or more or less cartilaginous framework supporting the soft tissues and protecting the internal organs of a vertebrate";
     private string nerves = "The bodily system that in vertebrates is made up of the brain and spinal cord, nerves, ganglia, and parts of the receptor organs and that receives and interprets stimuli and transmits impulses to the effector organs";
