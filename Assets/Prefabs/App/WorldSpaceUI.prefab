@@ -237,7 +237,7 @@ AudioSource:
   Priority: 128
   DopplerLevel: 1
   MinDistance: 1
-  MaxDistance: 500
+  MaxDistance: 519.79004
   Pan2D: 0
   rolloffMode: 0
   BypassEffects: 0
@@ -27610,11 +27610,6 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1093263a89abe47499cccf7dcb08effb, type: 3}
---- !u!4 &7986034990435688432 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 7307063431327029221, guid: 1093263a89abe47499cccf7dcb08effb, type: 3}
-  m_PrefabInstance: {fileID: 843299008745883669}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &7986034991144273211 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7307063430618434862, guid: 1093263a89abe47499cccf7dcb08effb, type: 3}
@@ -27623,6 +27618,16 @@ GameObject:
 --- !u!4 &7986034991144273206 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 7307063430618434851, guid: 1093263a89abe47499cccf7dcb08effb, type: 3}
+  m_PrefabInstance: {fileID: 843299008745883669}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &7986034990435688432 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7307063431327029221, guid: 1093263a89abe47499cccf7dcb08effb, type: 3}
+  m_PrefabInstance: {fileID: 843299008745883669}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &7986034990995748424 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7307063430758334045, guid: 1093263a89abe47499cccf7dcb08effb, type: 3}
   m_PrefabInstance: {fileID: 843299008745883669}
   m_PrefabAsset: {fileID: 0}
 --- !u!114 &7986034991144273205 stripped
@@ -27636,8 +27641,3 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d11c9594c7919e41991b47c0a9275f2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!4 &7986034990995748424 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 7307063430758334045, guid: 1093263a89abe47499cccf7dcb08effb, type: 3}
-  m_PrefabInstance: {fileID: 843299008745883669}
-  m_PrefabAsset: {fileID: 0}
