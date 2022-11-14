@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 3465507572014466043}
   - component: {fileID: 7145943419369733890}
   m_Layer: 0
-  m_Name: Arterias
+  m_Name: Arterial
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
