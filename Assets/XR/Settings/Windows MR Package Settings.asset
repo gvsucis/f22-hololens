@@ -73,5 +73,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a6c5bd16b42a1542ad52d1d47746bdb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  UsePrimaryWindowForDisplay: 1
-  HolographicRemoting: 0
+  UsePrimaryWindowForDisplay: 0
+  HolographicRemoting: 1

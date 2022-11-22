@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Standalone Settings
   m_EditorClassIdentifier: 
   m_LoaderManagerInstance: {fileID: 8670824649928674054}
-  m_InitManagerOnStart: 1
+  m_InitManagerOnStart: 0
 --- !u!114 &-4239585585043704720
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -27,7 +27,7 @@ MonoBehaviour:
   m_Name: WSA Settings
   m_EditorClassIdentifier: 
   m_LoaderManagerInstance: {fileID: 2781252947955079873}
-  m_InitManagerOnStart: 1
+  m_InitManagerOnStart: 0
 --- !u!114 &11400000
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -60,7 +60,7 @@ MonoBehaviour:
   m_AutomaticLoading: 0
   m_AutomaticRunning: 0
   m_Loaders:
-  - {fileID: 11400000, guid: 92aa8f014094574428781e99c39ebb6f, type: 2}
+  - {fileID: 11400000, guid: 6b0165b0ba8a5ad4e9afab338dbaeccd, type: 2}
 --- !u!114 &8670824649928674054
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -77,4 +77,5 @@ MonoBehaviour:
   m_AutomaticLoading: 0
   m_AutomaticRunning: 0
   m_Loaders:
+  - {fileID: 11400000, guid: 6b0165b0ba8a5ad4e9afab338dbaeccd, type: 2}
   - {fileID: 11400000, guid: 92aa8f014094574428781e99c39ebb6f, type: 2}
