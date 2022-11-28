@@ -8,7 +8,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/MainScene.unity
     guid: f05d2a5680ac9d64bbdbfac462f244a7
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Workshops/ScalingWorkshop.unity
     guid: e5a063606c6f6974087b1a031e0de9d4
   m_configObjects:

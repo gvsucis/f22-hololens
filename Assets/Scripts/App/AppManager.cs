@@ -112,6 +112,11 @@ public class AppManager : MonoBehaviour
     #endregion Private Methods
 
     #region Public Methods
+
+    public void OnConnected() {
+        
+    }
+
     #endregion Public Methods
 
     #region Coroutines
