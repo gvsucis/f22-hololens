@@ -13,38 +13,40 @@ MonoBehaviour:
   m_Name: MixedRealityToolkitConfigurationProfile
   m_EditorClassIdentifier: 
   isCustomProfile: 1
-  experienceSettingsProfile: {fileID: 0}
+  experienceSettingsProfile: {fileID: 11400000, guid: 1ccbb3b1d759d6a49b4161a958329d9d, type: 2}
   targetExperienceScale: 3
-  enableCameraSystem: 0
+  enableCameraSystem: 1
   cameraProfile: {fileID: 0}
   cameraSystemType:
     reference: 
-  enableInputSystem: 0
+  enableInputSystem: 1
   inputSystemProfile: {fileID: 0}
   inputSystemType:
     reference: 
-  enableBoundarySystem: 0
+  enableBoundarySystem: 1
   boundarySystemType:
     reference: 
   xrsdkBoundarySystemType:
-    reference: 
-  boundaryVisualizationProfile: {fileID: 0}
-  enableTeleportSystem: 0
+    reference: Microsoft.MixedReality.Toolkit.XRSDK.XRSDKBoundarySystem, Microsoft.MixedReality.Toolkit.Providers.XRSDK
+  boundaryVisualizationProfile: {fileID: 11400000, guid: 6d28cce596b44bd3897ca86f8b24e076, type: 2}
+  enableTeleportSystem: 1
   teleportSystemType:
-    reference: 
-  enableSpatialAwarenessSystem: 0
+    reference: Microsoft.MixedReality.Toolkit.Teleport.MixedRealityTeleportSystem,
+      Microsoft.MixedReality.Toolkit.Services.TeleportSystem
+  enableSpatialAwarenessSystem: 1
   spatialAwarenessSystemType:
-    reference: 
-  spatialAwarenessSystemProfile: {fileID: 0}
+    reference: Microsoft.MixedReality.Toolkit.SpatialAwareness.MixedRealitySpatialAwarenessSystem,
+      Microsoft.MixedReality.Toolkit.Services.SpatialAwarenessSystem
+  spatialAwarenessSystemProfile: {fileID: 11400000, guid: 97da727944a3d7b4caf42d2273271a24, type: 2}
   diagnosticsSystemProfile: {fileID: 0}
   enableDiagnosticsSystem: 0
   diagnosticsSystemType:
     reference: 
   sceneSystemProfile: {fileID: 0}
-  enableSceneSystem: 0
+  enableSceneSystem: 1
   sceneSystemType:
     reference: 
-  registeredServiceProvidersProfile: {fileID: 0}
-  useServiceInspectors: 0
+  registeredServiceProvidersProfile: {fileID: 11400000, guid: 17db2de733b4d014e86d40cca58df36d, type: 2}
+  useServiceInspectors: 1
   renderDepthBuffer: 0
-  enableVerboseLogging: 0
+  enableVerboseLogging: 1

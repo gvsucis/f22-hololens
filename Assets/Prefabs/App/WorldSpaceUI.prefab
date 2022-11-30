@@ -37286,6 +37286,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1093263a89abe47499cccf7dcb08effb, type: 3}
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> main
 --- !u!1 &7986034991144273211 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7307063430618434862, guid: 1093263a89abe47499cccf7dcb08effb, type: 3}
@@ -37299,6 +37303,14 @@ Transform:
 --- !u!4 &7986034991144273206 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 7307063430618434851, guid: 1093263a89abe47499cccf7dcb08effb, type: 3}
+<<<<<<< HEAD
+=======
+=======
+--- !u!4 &7986034990995748424 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7307063430758334045, guid: 1093263a89abe47499cccf7dcb08effb, type: 3}
+>>>>>>> 379efd98598318b1bce726a7ad04de559184a8c2
+>>>>>>> main
   m_PrefabInstance: {fileID: 843299008745883669}
   m_PrefabAsset: {fileID: 0}
 --- !u!4 &7986034990435688432 stripped
@@ -37324,6 +37336,24 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
 <<<<<<< HEAD
 =======
+<<<<<<< HEAD
+=======
+--- !u!4 &7986034991144273206 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7307063430618434851, guid: 1093263a89abe47499cccf7dcb08effb, type: 3}
+  m_PrefabInstance: {fileID: 843299008745883669}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &7986034991144273211 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 7307063430618434862, guid: 1093263a89abe47499cccf7dcb08effb, type: 3}
+  m_PrefabInstance: {fileID: 843299008745883669}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &7986034990435688432 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7307063431327029221, guid: 1093263a89abe47499cccf7dcb08effb, type: 3}
+  m_PrefabInstance: {fileID: 843299008745883669}
+  m_PrefabAsset: {fileID: 0}
+>>>>>>> main
 --- !u!1001 &928346821781246761
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -37398,4 +37428,8 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 2840567217493077112, guid: b867ffee7a9f54146929f0698b6bcf23, type: 3}
   m_PrefabInstance: {fileID: 928346821781246761}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 >>>>>>> LucasDev
+=======
+>>>>>>> 379efd98598318b1bce726a7ad04de559184a8c2
+>>>>>>> main
