@@ -2,7 +2,6 @@
 *.cginc              text
 *.cs                 text diff=csharp
 *.shader             text
-
 # Unity YAML
 *.mat                merge=unityyamlmerge eol=lf
 *.anim               merge=unityyamlmerge eol=lf
@@ -11,20 +10,16 @@
 *.asset              merge=unityyamlmerge eol=lf
 *.meta               merge=unityyamlmerge eol=lf
 *.controller         merge=unityyamlmerge eol=lf
-
 # "physic" for 3D but "physics" for 2D
 *.physicMaterial2D   merge=unityyamlmerge eol=lf
 *.physicMaterial     merge=unityyamlmerge eol=lf
 *.physicsMaterial2D  merge=unityyamlmerge eol=lf
 *.physicsMaterial    merge=unityyamlmerge eol=lf
-
 # Using Git LFS
 # Add diff=lfs merge=lfs to the binary files
-
 # Unity LFS
 *.cubemap            binary
 *.unitypackage       binary
-
 # 3D models
 *.3dm                binary
 *.3ds                binary
@@ -46,7 +41,6 @@
 *.skp                binary
 *.stl                binary
 *.ztl                binary
-
 # Audio
 *.aif                binary
 *.aiff               binary
@@ -57,7 +51,6 @@
 *.s3m                binary
 *.wav                binary
 *.xm                 binary
-
 # Video
 *.asf                binary
 *.avi                binary
@@ -68,7 +61,6 @@
 *.mpg                binary
 *.ogv                binary
 *.wmv                binary
-
 # Images
 *.bmp                binary
 *.exr                binary
@@ -83,7 +75,6 @@
 *.tga                binary
 *.tif                binary
 *.tiff               binary
-
 # Compressed Archive
 *.7z                binary
 *.bz2               binary
@@ -91,34 +82,31 @@
 *.rar               binary
 *.tar               binary
 *.zip               binary
-
 # Compiled Dynamic Library
 *.dll               binary
 *.pdb               binary
 *.so                binary
-
 # Fonts
 *.otf               binary
 *.ttf               binary
-
 # Executable/Installer
 *.apk               binary
 *.exe               binary
-
 # Documents
 *.pdf               binary
-
 # ETC
 *.a                 binary
 *.rns               binary
 *.reason            binary
-
 # Collapse Unity-generated files on GitHub
 *.asset             linguist-generated
 *.mat               linguist-generated
 *.meta              linguist-generated
 *.prefab            linguist-generated
 *.unity             linguist-generated
-
 # Spine export file for Unity
 *.skel.bytes        binary
+f22-hololens filter=lfs diff=lfs merge=lfs -text
+12-1/3d-anatomy-hololens_Data/sharedassets0.assets.resS' filter=lfs diff=lfs merge=lfs -text
+'Build filter=lfs diff=lfs merge=lfs -text
+12-1/3d-anatomy-hololens_Data/sharedassets0.assets' filter=lfs diff=lfs merge=lfs -text
